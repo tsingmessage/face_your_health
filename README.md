@@ -1,2 +1,2 @@
 # face_your_health
-![Book logo](/least-github-pages/assets/logo.png)
+![Face logo](https://github.com/tsingmessage/face_your_health/blob/main/face_the_health.jpg)
